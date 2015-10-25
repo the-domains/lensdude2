@@ -1,0 +1,23 @@
+name: LensDude2
+favicon: null
+layout_spectrum: 0.2683471709024161
+typography_spectrum: 0.14780101808719337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9262329558841884
+  lightness: 0.41113221482373774
+  saturation: 0.8713744939304888
+  rhythmicContrast: 0.6007659088354558
+purpose: []
